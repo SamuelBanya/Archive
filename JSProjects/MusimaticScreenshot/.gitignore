@@ -1,0 +1,2 @@
+# Ignore node_modules directory since its too large for GitHub:
+node_modules

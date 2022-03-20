@@ -1,0 +1,2 @@
+# Please add your Selenium Gecko Driver Path on the second line in single quotes (Example provided):
+'/home/sam/utilities/SeleniumGeckoDriver'

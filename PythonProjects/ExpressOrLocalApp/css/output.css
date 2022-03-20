@@ -1,0 +1,46 @@
+#program_header {
+    text-align: center;
+    color: green;
+}
+
+#updated_header {
+    text-align: center;
+    color: yellow;
+}
+
+.description_headers {
+    color: orange;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+table {
+    text-align: center;
+    width: 100%;
+    border-collapse: collapse;
+    color: black;
+}
+
+td {
+    padding: 7px;
+    border: #4e95f4 1px solid;
+    color: black;
+}
+
+tr {
+    background-color: #b8d1f3;
+    color: black;
+}
+
+tr:nth-child(odd) {
+    background-color: #b8d1f3;
+    color: black;
+}
+
+tr:nth-child(even) {
+    background-color: #dae5f4;
+    color: black;
+}
